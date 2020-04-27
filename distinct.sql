@@ -12,3 +12,7 @@ SELECT DISTINCT name
 FROM babies
 WHERE name LIKE 'S%'
 LIMIT 20;
+
+SELECT *
+FROM nomnom
+WHERE health IS NULL;
