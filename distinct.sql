@@ -7,3 +7,8 @@ SELECT name,
   ELSE 'Intense'
  END AS 'Mood'
 FROM movies;
+
+SELECT DISTINCT name
+FROM babies
+WHERE name LIKE 'S%'
+LIMIT 20;
