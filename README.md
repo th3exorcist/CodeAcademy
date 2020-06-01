@@ -1,7 +1,7 @@
 # codecademy
--- Go
--- Python
--- Javascript
--- PHP
--- Swift
--- Java
+-- Go  
+-- Python  
+-- Javascript  
+-- PHP  
+-- Swift  
+-- Java  
